@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ed3ee15-596d-41de-be9a-2c2fcc2ec35b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-dec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/LogicalStatement/EvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/LogicalStatement/LargestIfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/LogicalStatement/PositiveNegative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/basic/AreaOfTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/basic/Ascii.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/basic/Multiply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/operators/LargestTernaryOp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/operators/SmallestTernaryOp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LogicalStatement/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LogicalStatement/LargestIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LogicalStatement/PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/AreaOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/Ascii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/operators/LargestTernaryOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/operators/SmallestTernaryOp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UhWwdBptWEv5cGVT20A0uqa85g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.LargestTernaryOp">
+    <configuration name="LargestTernaryOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.operators.LargestTernaryOp" />
+      <module name="Java-dec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Java-dec" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.LargestTernaryOp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LargestTernaryOp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ed3ee15-596d-41de-be9a-2c2fcc2ec35b" name="Default Changelist" comment="" />
+      <created>1575809546609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575809546609</updated>
+      <workItem from="1575809557942" duration="723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1575810209561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575810209561" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1575810269211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575810269211" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1575810269211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575810269211" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1575810269209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575810269209" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1575810269211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575810269211" />
+  </component>
+</project>
