@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ed3ee15-596d-41de-be9a-2c2fcc2ec35b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/LogicalStatement/Continueloop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LogicalStatement/FiboseriesFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LogicalStatement/FiboseriesFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LogicalStatement/Continueloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LogicalStatement/Continueloop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575809546609</updated>
-      <workItem from="1575809557942" duration="7299000" />
+      <workItem from="1575809557942" duration="7763000" />
     </task>
     <task id="LOCAL-00001" summary="basics : logical state : operators">
       <created>1575810341157</created>
@@ -191,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575816659128</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="continue statement">
+      <created>1575888177801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575888177801</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,17 +208,18 @@
     <MESSAGE value="switch" />
     <MESSAGE value="for loop" />
     <MESSAGE value="for" />
-    <option name="LAST_COMMIT_MESSAGE" value="for" />
+    <MESSAGE value="continue statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="continue statement" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Notifications" timestamp="1575810445629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1575810445629" />
-    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1575816655744">
+    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1575888168029">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575816655744" />
+    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575888168029" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1575810209561">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -221,26 +228,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="1034" y="305" width="258" height="213" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1575810900772" />
-    <state width="724" height="212" key="GridCell.Tab.0.bottom" timestamp="1575888021972">
+    <state width="724" height="212" key="GridCell.Tab.0.bottom" timestamp="1575888411054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575888021972" />
-    <state width="724" height="212" key="GridCell.Tab.0.center" timestamp="1575888021971">
+    <state width="724" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575888411054" />
+    <state width="724" height="212" key="GridCell.Tab.0.center" timestamp="1575888411054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575888021971" />
-    <state width="724" height="212" key="GridCell.Tab.0.left" timestamp="1575888021971">
+    <state width="724" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575888411054" />
+    <state width="724" height="212" key="GridCell.Tab.0.left" timestamp="1575888411054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575888021971" />
-    <state width="724" height="212" key="GridCell.Tab.0.right" timestamp="1575888021971">
+    <state width="724" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575888411054" />
+    <state width="724" height="212" key="GridCell.Tab.0.right" timestamp="1575888411054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575888021971" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1575816744142">
+    <state width="724" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575888411054" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1575888209598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575816744142" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575888209598" />
     <state x="503" y="203" key="git4idea.merge.GitPullDialog" timestamp="1575810723604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
