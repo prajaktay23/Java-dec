@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ed3ee15-596d-41de-be9a-2c2fcc2ec35b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Java-dec/com/company/LogicalStatement/FiboseriesFor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LogicalStatement/FiboseriesFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LogicalStatement/Continueloop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LogicalStatement/FiboseriesFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LogicalStatement/FiboseriesFor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +42,22 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.FiboseriesFor">
+  <component name="RunManager" selected="Application.Continueloop">
     <configuration name="CalcSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.LogicalStatement.CalcSwitch" />
+      <module name="Java-dec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.LogicalStatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continueloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LogicalStatement.Continueloop" />
       <module name="Java-dec" />
       <extension name="coverage">
         <pattern>
@@ -95,33 +108,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.LogicalStatement.SwitchVowels" />
-      <module name="Java-dec" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.LogicalStatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SwitchVowels" />
       <item itemvalue="Application.CalcSwitch" />
       <item itemvalue="Application.NaturalSumFor" />
       <item itemvalue="Application.FactorialFor" />
       <item itemvalue="Application.FiboseriesFor" />
+      <item itemvalue="Application.Continueloop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Continueloop" />
         <item itemvalue="Application.FiboseriesFor" />
         <item itemvalue="Application.FactorialFor" />
         <item itemvalue="Application.NaturalSumFor" />
         <item itemvalue="Application.CalcSwitch" />
-        <item itemvalue="Application.SwitchVowels" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575809546609</updated>
-      <workItem from="1575809557942" duration="6779000" />
+      <workItem from="1575809557942" duration="7299000" />
     </task>
     <task id="LOCAL-00001" summary="basics : logical state : operators">
       <created>1575810341157</created>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575814937387</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="for">
+      <created>1575816659128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575816659128</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,17 +201,18 @@
     <MESSAGE value="basics : logical state : operators" />
     <MESSAGE value="switch" />
     <MESSAGE value="for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop" />
+    <MESSAGE value="for" />
+    <option name="LAST_COMMIT_MESSAGE" value="for" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Notifications" timestamp="1575810445629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1575810445629" />
-    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1575814934181">
+    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1575816655744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575814934181" />
+    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575816655744" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1575810209561">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -213,26 +221,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="1034" y="305" width="258" height="213" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1575810900772" />
-    <state width="724" height="212" key="GridCell.Tab.0.bottom" timestamp="1575816617943">
+    <state width="724" height="212" key="GridCell.Tab.0.bottom" timestamp="1575888021972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575816617943" />
-    <state width="724" height="212" key="GridCell.Tab.0.center" timestamp="1575816617943">
+    <state width="724" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575888021972" />
+    <state width="724" height="212" key="GridCell.Tab.0.center" timestamp="1575888021971">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575816617943" />
-    <state width="724" height="212" key="GridCell.Tab.0.left" timestamp="1575816617943">
+    <state width="724" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575888021971" />
+    <state width="724" height="212" key="GridCell.Tab.0.left" timestamp="1575888021971">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575816617943" />
-    <state width="724" height="212" key="GridCell.Tab.0.right" timestamp="1575816617943">
+    <state width="724" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575888021971" />
+    <state width="724" height="212" key="GridCell.Tab.0.right" timestamp="1575888021971">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575816617943" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1575814946097">
+    <state width="724" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575888021971" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1575816744142">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575814946097" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575816744142" />
     <state x="503" y="203" key="git4idea.merge.GitPullDialog" timestamp="1575810723604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
